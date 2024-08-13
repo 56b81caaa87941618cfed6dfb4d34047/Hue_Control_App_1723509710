@@ -4,5 +4,6 @@
     "project_description": "an app for making the Hue",
     "creation_time": "2024-08-13 00:41:50.394734",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a surreal, cosmic landscape with a predominantly pink and purple color scheme, utilizing a gradient style to blend dark and light shades, creating a dreamlike atmosphere. The scene includes luminescent celestial bodies and silhouetted, jagged mountains, enhancing the fantastical ambiance."
 }
