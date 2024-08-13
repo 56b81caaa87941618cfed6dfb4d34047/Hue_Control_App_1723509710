@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Certainly, adding a button with the text \"Good Morning\".",
+        "message_id": "guest13082024105845",
+        "timestamp": "13082024105846",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text Good Morninng",
         "message_id": "guest13082024105845",
